@@ -4,6 +4,7 @@ This is a repositiry containing examples running on Raspberry Pi. Each exxample 
 
 ## Table of Contents
 * [LED Control](/led_control/)
+* [PWM](/PWM/)
 
 ## Blog of the Author
 https://neighborhoodunclelab.tistory.com/
