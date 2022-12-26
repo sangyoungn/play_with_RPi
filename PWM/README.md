@@ -14,7 +14,7 @@ Examples here demonstrate the PWM control using the RPi.GPIO module.
     * [../led_control/led_toggle.py](../led_control/led_toggle.py)
 
 ## Set Up
-Refer to<br /> https:// <br />where further description can be found. (*Korean*)
+Refer to<br /> https://neighborhoodunclelab.tistory.com/entry/%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8Analog%EC%9D%98-%ED%91%9C%ED%98%84-PWM-Pulse-Width-Modulation <br />where further description can be found. (*Korean*)
 
 ## How to run
 ```bash
@@ -28,4 +28,4 @@ Press *Ctrl+C* to exit.
 ## What to learn from this
 * PWM control using Python **RPi.GPIO module**
 * The concept of the inheritance of **class** in Python
-* Ways to import Python modules
+
