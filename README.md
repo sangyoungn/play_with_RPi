@@ -5,7 +5,7 @@ This is a repositiry containing examples running on Raspberry Pi. Each example h
 ## Table of Contents
 * [LED Control](/led_control/)
 * [PWM](/PWM/)
-* [7 Segment LED](/7seg_led/)
+* [Seven Segment LED](/seven_seg_led/)
 
 ## Blog of the Author
 https://neighborhoodunclelab.tistory.com/
