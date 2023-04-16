@@ -17,6 +17,13 @@ Examples here demonstrate the PWM control using the RPi.GPIO module.
 Refer to<br /> https://neighborhoodunclelab.tistory.com/entry/%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8Analog%EC%9D%98-%ED%91%9C%ED%98%84-PWM-Pulse-Width-Modulation <br />where further description can be found. (*Korean*)
 
 ## How to run
+Clone the repository.
+```bash
+# You can bypass follow 2 commands if you already have cloned.
+git clone https://github.com/sangyoungn/play_with_RPi.git
+cd PWM
+```
+Run scripts.
 ```bash
 python pwm_blink.py
 ```
